@@ -24,7 +24,7 @@
           <div class="menu-list">
             <ul>
               <li :class="[ ($route.name === 'home' || $route.path === '/new/') && 'active']">
-                <g-link to="/new/">
+                <g-link to="/">
                   <span class="icon"></span>
                   最新动态
                 </g-link>
@@ -122,6 +122,8 @@ body {
   background-color: #159957;
   background-image: linear-gradient(
     120deg,#155799,#159957);
+  background-image: url("/bg.jpg");
+  background-size: 100%;
 }
 .one-word{
   position: relative;
