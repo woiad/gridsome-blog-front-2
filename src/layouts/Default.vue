@@ -127,7 +127,7 @@ body {
 }
 .one-word{
   position: relative;
-  z-index: 2;
+  z-index: 1;
   margin: -30px auto auto;
   width: 64rem;
 }

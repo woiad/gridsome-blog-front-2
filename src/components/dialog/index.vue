@@ -46,6 +46,7 @@ export default {
   left: 0;
   right: 0;
   background-color: rgba(0, 0, 0, .3);
+  z-index: 99;
 }
 .lp-confirm-box{
   margin: 15vh auto 0;
