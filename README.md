@@ -18,6 +18,6 @@ This is the project you get when you run `gridsome create new-project`.
 
 界面和功能模仿该项目: https://github-laziji.github.io/#/user/project/details/code-generator
 
-# 笔记链接
+# 模块笔记链接
 1. https://www.yuque.com/docs/share/9ca0311e-b0ee-4164-b92e-6f1773454bb5?# 《Gridsome》
 2. https://www.yuque.com/docs/share/1e579d35-97e3-46f7-b6d8-516809057794?# 《strapi 项目搭建以及发布》
